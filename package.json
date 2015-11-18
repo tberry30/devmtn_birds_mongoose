@@ -1,0 +1,25 @@
+{
+  "name": "birds",
+  "version": "1.0.0",
+  "description": "bird sighting app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tberry30/devmtn_birds.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tberry30/devmtn_birds/issues"
+  },
+  "homepage": "https://github.com/tberry30/devmtn_birds#readme",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "cors": "^2.7.1",
+    "express": "^4.13.3",
+    "mongojs": "^1.4.1"
+  }
+}
